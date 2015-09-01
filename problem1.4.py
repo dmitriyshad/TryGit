@@ -28,3 +28,5 @@ def print_parts_of_line(line, strlen):
     print ' '.join(curstr)
 
 parse_text('input.txt')
+
+
