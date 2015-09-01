@@ -20,3 +20,4 @@ def calculate_norm(coordinates, power):
 power = read_power()
 coordinates = read_coordinates()
 print calculate_norm(coordinates, power)
+
